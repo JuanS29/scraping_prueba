@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VERONICA.ProductsListExtractWebInfo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://ms.digemid.minsa.gob.pe:8480/msopmcovid/producto/catalogoproductos</Value>
+    </Setting>
+    <Setting Name="TimeWait" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="DaysInterval" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="BulkLimit" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="TaskNumber" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="URLQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tcp://mq.veronica.cloud:61616/</Value>
+    </Setting>
+    <Setting Name="QueueSend" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">taskCatalogo_Productos</Value>
+    </Setting>
+    <Setting Name="QueueSend2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">taskCatalogo_ProductosATC</Value>
+    </Setting>
+    <Setting Name="URLGetGroups" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://ms.digemid.minsa.gob.pe:8480/msopmcovid/producto/autocompleteciudadano</Value>
+    </Setting>
+    <Setting Name="Attempts" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="URLDigemid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://opm.digemid.minsa.gob.pe/#/consulta-producto</Value>
+    </Setting>
+    <Setting Name="URLtokenGoogle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.google.com/recaptcha/api2/reload?k=6LfTRbUZAAAAAC4PZ6QF3Oz_IElVRZpnW9zzA7JD</Value>
+    </Setting>
+    <Setting Name="URLDigemidSource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://opm.digemid.minsa.gob.pe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

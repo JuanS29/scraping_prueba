@@ -1,0 +1,58 @@
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.ProductEstablishmentGetWebInfo.exe.config
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.ProductEstablishmentGetWebInfo.exe
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.ProductEstablishmentGetWebInfo.pdb
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Core.Lucas.Utils.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Newtonsoft.Json.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\RestSharp.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.QueueManager.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Apache.NMS.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Apache.NMS.ActiveMQ.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Ionic.Zlib.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Dapper.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.EncryptDecrypt.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\ChilkatDotNet45.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.QueueManager.pdb
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.pdb
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.pdb
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Newtonsoft.Json.xml
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\RestSharp.xml
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.pdb
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Dapper.xml
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.EncryptDecrypt.pdb
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\obj\Debug\VERONICA.ProductEstablishmentGetWebInfo.csprojResolveAssemblyReference.cache
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\obj\Debug\VERONICA.ProductEstablishmentGetWebInfo.exe
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\obj\Debug\VERONICA.ProductEstablishmentGetWebInfo.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.ProductEstablishmentGetWebInfo.exe.config
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.ProductEstablishmentGetWebInfo.exe
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.ProductEstablishmentGetWebInfo.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Core.Lucas.Utils.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Newtonsoft.Json.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\RestSharp.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.QueueManager.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Apache.NMS.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Apache.NMS.ActiveMQ.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Ionic.Zlib.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Dapper.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.EncryptDecrypt.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\ChilkatDotNet45.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.QueueManager.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Newtonsoft.Json.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\RestSharp.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\Dapper.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\VERONICA.EncryptDecrypt.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\obj\Debug\VERONICA.ProductEstablishmentGetWebInfo.csprojResolveAssemblyReference.cache
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\obj\Debug\VERONICA.ProductEstablishmentGetWebInfo.exe
+S:\VERONICA.Medical - copia\VERONICA.ProductEstablishmentGetWebInfo\obj\Debug\VERONICA.ProductEstablishmentGetWebInfo.pdb
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\DotNetBrowser.Chromium32.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\DotNetBrowser.Chromium64.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\DotNetBrowser.dll
+S:\VERONICA.Medical\VERONICA.ProductEstablishmentGetWebInfo\bin\Debug\DotNetBrowser.xml

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VERONICA.PharmaceuticalProductGetWebInfo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URLQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tcp://mq.veronica.cloud:61616/</Value>
+    </Setting>
+    <Setting Name="QueueListen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">taskCatalogo_ProductosATC</Value>
+    </Setting>
+    <Setting Name="URLSearch" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.digemid.minsa.gob.pe/ProductosFarmaceuticos/pRINCIPAL/PAGES/Default.ASPX/mostrarDetallesProductos</Value>
+    </Setting>
+    <Setting Name="Attempts" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

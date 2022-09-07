@@ -1,0 +1,14 @@
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\VERONICA.MedicalProcessing.Data.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\VERONICA.MedicalProcessing.Data.pdb
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\Dapper.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\VERONICA.EncryptDecrypt.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\VERONICA.MedicalProcessing.Models.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\ChilkatDotNet45.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\VERONICA.MedicalProcessing.Models.pdb
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\Dapper.xml
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\VERONICA.EncryptDecrypt.pdb
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\obj\Debug\VERONICA.MedicalProcessing.Data.csprojResolveAssemblyReference.cache
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\obj\Debug\VERONICA.MedicalProcessing.Data.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\obj\Debug\VERONICA.MedicalProcessing.Data.pdb
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\Newtonsoft.Json.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Data\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,7 @@
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Models\bin\Debug\VERONICA.MedicalProcessing.Models.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Models\bin\Debug\VERONICA.MedicalProcessing.Models.pdb
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Models\obj\Debug\VERONICA.MedicalProcessing.Models.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Models\obj\Debug\VERONICA.MedicalProcessing.Models.pdb
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Models\obj\Debug\VERONICA.MedicalProcessing.Models.csprojResolveAssemblyReference.cache
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Models\bin\Debug\Newtonsoft.Json.dll
+S:\VERONICA.Medical\VERONICA.MedicalProcessing.Models\bin\Debug\Newtonsoft.Json.xml

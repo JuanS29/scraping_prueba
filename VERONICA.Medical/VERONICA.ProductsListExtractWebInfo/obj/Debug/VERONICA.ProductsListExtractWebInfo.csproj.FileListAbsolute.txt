@@ -1,0 +1,65 @@
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductsListExtractWebInfo.csprojResolveAssemblyReference.cache
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.ProductsListExtractWebInfo.exe.config
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.ProductsListExtractWebInfo.exe
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.ProductsListExtractWebInfo.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductsListExtractWebInfo.exe
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductsListExtractWebInfo.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Core.Lucas.Utils.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Newtonsoft.Json.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Dapper.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.EncryptDecrypt.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\ChilkatDotNet45.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Newtonsoft.Json.xml
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Dapper.xml
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.EncryptDecrypt.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.QueueManager.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Apache.NMS.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Apache.NMS.ActiveMQ.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Ionic.Zlib.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.QueueManager.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\RestSharp.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\RestSharp.xml
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Independentsoft.Office.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\Independentsoft.Office.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.ProductsListExtractWebInfo.exe.config
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.ProductsListExtractWebInfo.exe
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.ProductsListExtractWebInfo.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Core.Lucas.Utils.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Independentsoft.Office.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Newtonsoft.Json.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\RestSharp.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.QueueManager.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Apache.NMS.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Apache.NMS.ActiveMQ.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Dapper.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.EncryptDecrypt.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Ionic.Zlib.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\ChilkatDotNet45.dll
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Core.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Models.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Independentsoft.Office.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Newtonsoft.Json.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\RestSharp.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.QueueManager.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.MedicalProcessing.Data.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\Dapper.xml
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\bin\Debug\VERONICA.EncryptDecrypt.pdb
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductsListExtractWebInfo.csprojResolveAssemblyReference.cache
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductsListExtractWebInfo.exe
+S:\VERONICA.Medical - copia\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductsListExtractWebInfo.pdb
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductEstablishmentGetWebInfo.DigemidBrowser.resources
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\obj\Debug\VERONICA.ProductsListExtractWebInfo.csproj.GenerateResource.Cache
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\teamdev.licenses
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\DotNetBrowser.Chromium32.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\DotNetBrowser.Chromium64.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\DotNetBrowser.dll
+S:\VERONICA.Medical\VERONICA.ProductsListExtractWebInfo\bin\Debug\DotNetBrowser.xml

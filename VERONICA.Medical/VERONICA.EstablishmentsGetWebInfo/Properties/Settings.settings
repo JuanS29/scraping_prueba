@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VERONICA.EstablishmentsGetWebInfo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URLQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tcp://mq.veronica.cloud:61616/</Value>
+    </Setting>
+    <Setting Name="QueueListen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">taskEstablecimientos_Update</Value>
+    </Setting>
+    <Setting Name="TaskNumber" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://serviciosweb.digemid.minsa.gob.pe/Consultas/Establecimientos?accion=GET&amp;idest={0}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

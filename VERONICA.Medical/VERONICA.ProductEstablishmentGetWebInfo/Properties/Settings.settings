@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VERONICA.ProductEstablishmentGetWebInfo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URLGetGroups" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://ms.digemid.minsa.gob.pe:8480/msopmcovid/producto/autocompleteciudadano</Value>
+    </Setting>
+    <Setting Name="URLSearch" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://ms.digemid.minsa.gob.pe:8480/msopmcovid/preciovista/ciudadano</Value>
+    </Setting>
+    <Setting Name="URLQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tcp://mq.veronica.cloud:61616/</Value>
+    </Setting>
+    <Setting Name="QueueListen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">taskCatalogo_Productos</Value>
+    </Setting>
+    <Setting Name="BulkLimit" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="TaskNumber" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Ubigeos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</Value>
+    </Setting>
+    <Setting Name="Attempts" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="DisplayLength" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="BrowserTimeWait" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="URLDigemid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://opm.digemid.minsa.gob.pe/#/consulta-producto</Value>
+    </Setting>
+    <Setting Name="URLtokenGoogle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.google.com/recaptcha/api2/reload?k=6LfTRbUZAAAAAC4PZ6QF3Oz_IElVRZpnW9zzA7JD</Value>
+    </Setting>
+    <Setting Name="URLDigemidSource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://opm.digemid.minsa.gob.pe</Value>
+    </Setting>
+    <Setting Name="DigemidBrowserApp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">S:\VERONICA.Medical\VERONICA.DigemidBrowser\bin\Debug\VERONICA.DigemidBrowser.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
